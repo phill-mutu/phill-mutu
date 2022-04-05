@@ -8,7 +8,7 @@
 
 
 
-
+<!--
 
 
 <h2 align="left">:Proficiencies:</h2>
@@ -31,7 +31,7 @@
 
 
 
-<!--
+
 
 
 
