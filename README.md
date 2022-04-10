@@ -11,7 +11,7 @@
 
 
 
-<h2 align="left">:Proficiencies:</h2>
+# <h2 align="left"> Proficiencies </h2>
 
 <p align="left">
     
